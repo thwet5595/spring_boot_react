@@ -19,7 +19,7 @@ mvn spring-boot:run
 
 ```
 
-# Run project locally for frontedn
+# Run project locally for fronted
 ```bash
 $ git clone https://github.com/thwet5595/spring_boot_react.git
 $ cd spring_boot_react/frontend/
